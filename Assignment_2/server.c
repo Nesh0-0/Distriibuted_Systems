@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
-    printf("yo");
+    printf("yo boys I sing song");
+    return 0;
 }
